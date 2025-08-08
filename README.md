@@ -19,7 +19,6 @@
 ✔️ **Configurable Models** – Switch LLM providers or models with simple config  
 ✔️ **Starter Templates** – Minimal setup with ready-to-extend components  
 
-📌 *Add more features as your project grows!*  
 
 ---
 
