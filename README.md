@@ -15,14 +15,14 @@ Built for learning and demos—clean structure, quick start, and easy customizat
 ---
 
 ## Features  
-✔️ **Chat Interface** – Ask health-related questions and get concise, educational answers  
-✔️ **Configurable Models** – Switch LLM providers or models with simple config  
-✔️ **Starter Templates** – Minimal setup with ready-to-extend components  
+**Chat Interface** – Ask health-related questions and get concise, educational answers  
+**Configurable Models** – Switch LLM providers or models with simple config  
+**Starter Templates** – Minimal setup with ready-to-extend components  
 
 
 ---
 
-## 🦾 Installation  
+## Installation  
 
 ```bash
 # Clone the repository
