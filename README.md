@@ -22,7 +22,7 @@ Built for learning and demos—clean structure, quick start, and easy customizat
 
 ---
 
-## HOW PROJECT WORK?
+## Installation
 
 ### Clone the repository
 ```commandline
