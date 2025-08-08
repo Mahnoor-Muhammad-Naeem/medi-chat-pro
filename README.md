@@ -24,12 +24,11 @@ Built for learning and demos—clean structure, quick start, and easy customizat
 
 ## Installation  
 
-```bash
-# Clone the repository
+### Clone the repository
 ```commandline
 git clone https://github.com/Mahnoor-Muhammad-Naeem/medi-chat-pro.git
     ```
-# Navigate to project directory
+### Navigate to project directory
 ```commandline
 cd medi-chat-pro
 ```
