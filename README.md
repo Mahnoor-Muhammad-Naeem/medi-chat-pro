@@ -31,16 +31,19 @@ git clone https://github.com/Mahnoor-Muhammad-Naeem/medi-chat-pro.git
 # Navigate to project directory
 cd medi-chat-pro
 
-# Install dependencies
-npm install
+### 1) Create a Virtual Environment
+```bash
+python -m venv .venv
 
-# Start the project
-npm start
+2) Upgrade pip
 
-# Run the app
-python main.py
+python -m pip install --upgrade pip
 
-# If the app uses Streamlit
+3) Install Dependencies
+
+pip install -r requirements.txt
+
+4) Run the App
 streamlit run main.py
 
 
