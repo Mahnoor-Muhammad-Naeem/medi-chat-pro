@@ -26,24 +26,26 @@ Built for learning and demos—clean structure, quick start, and easy customizat
 
 ```bash
 # Clone the repository
+```commandline
 git clone https://github.com/Mahnoor-Muhammad-Naeem/medi-chat-pro.git
-
+    ```
 # Navigate to project directory
+```commandline
 cd medi-chat-pro
-
+```
 ### 1) Create a Virtual Environment
-```bash
+```commandline
 python -m venv .venv
-
+```
 2) Upgrade pip
-
+```commandline
 python -m pip install --upgrade pip
-
+```
 3) Install Dependencies
-
+```commandline
 pip install -r requirements.txt
-
+```
 4) Run the App
+```commandline
 streamlit run main.py
-
-
+```
