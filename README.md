@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Description  
-🌟 An intuitive **medical chatbot** that provides educational, general health information via conversational AI.  
-💡 Built for learning and demos—clean structure, quick start, and easy customization!  
+## Description  
+An intuitive **medical chatbot** that provides educational, general health information via conversational AI.  
+Built for learning and demos—clean structure, quick start, and easy customization!  
 
 ---
 
-## 🚀 Features  
+## Features  
 ✔️ **Chat Interface** – Ask health-related questions and get concise, educational answers  
 ✔️ **Configurable Models** – Switch LLM providers or models with simple config  
 ✔️ **Starter Templates** – Minimal setup with ready-to-extend components  
@@ -36,3 +36,11 @@ npm install
 
 # Start the project
 npm start
+
+# Run the app
+python main.py
+
+# If the app uses Streamlit
+streamlit run main.py
+
+
