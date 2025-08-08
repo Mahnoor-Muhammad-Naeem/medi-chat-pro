@@ -37,15 +37,15 @@ cd medi-chat-pro
 ```commandline
 python -m venv .venv
 ```
-2) Upgrade pip
+### 2) Upgrade pip
 ```commandline
 python -m pip install --upgrade pip
 ```
-3) Install Dependencies
+### 3) Install Dependencies
 ```commandline
 pip install -r requirements.txt
 ```
-4) Run the App
+### 4) Run the App
 ```commandline
 streamlit run main.py
 ```
