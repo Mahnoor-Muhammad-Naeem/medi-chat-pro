@@ -10,7 +10,7 @@
 
 ## Description  
 An intuitive **medical chatbot** that provides educational, general health information via conversational AI.  
-Built for learning and demos—clean structure, quick start, and easy customization!  
+Built for learning and demos-clean structure, quick start, and easy customization!  
 
 ---
 
